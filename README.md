@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/dnychennnn)
 
-- 🥘Software engineer @ Deliver Hero Logistics
+- 🥘Software engineer @ AutoScout24 Trust & Identity
 - 🎉Speak fp Scala, Kotlin, Golang, Python, and a bit of C++ 
 - 🤖Curious about autonomous vehicles and crypto.
 
