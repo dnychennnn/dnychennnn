@@ -4,7 +4,7 @@
 
 - 🥘 Senior Fullstack Software engineer @ AutoScout24 Trust & Identity
 - 🎉 Speak fp Scala, Typescript, Kotlin, Golang, Python, and a bit of C++ 
-- 🤖 Curious about autonomous vehicles and crypto.
+- 🤖 Curious about GenAI and IAM.
 
 [![](https://raw.githubusercontent.com/dnychennnn/dnychennnn/master/profile-summary-card-output/nord_bright/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dnychennnn/dnychennnn/master/profile-summary-card-output/nord_bright/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dnychennnn/dnychennnn/master/profile-summary-card-output/nord_bright/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
