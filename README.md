@@ -2,7 +2,7 @@
 
 [![Github](https://img.shields.io/github/followers/appleboy?label=Follow&style=social)](https://github.com/dnychennnn)
 
-- 🥘 Fullstack Software engineer @ AutoScout24 Trust & Identity
+- 🥘 Senior Fullstack Software engineer @ AutoScout24 Trust & Identity
 - 🎉 Speak fp Scala, Typescript, Kotlin, Golang, Python, and a bit of C++ 
 - 🤖 Curious about autonomous vehicles and crypto.
 
