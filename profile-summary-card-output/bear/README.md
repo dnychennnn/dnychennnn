@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/dnychennnn/dnychennnn/master/profile-summary-card-output/bear/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/dnychennnn/dnychennnn/master/profile-summary-card-output/bear/4-productive-time.svg)
-```
-
-    
